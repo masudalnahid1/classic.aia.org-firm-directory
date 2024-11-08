@@ -1,0 +1,1 @@
+https://api.aia.org/firm-directory?filter%5Bcountry%5D=&filter%5Bstate%5D=&page%5Bnumber%5D=1&page%5Bsize%5D=50&q=&sort%5Bcriteria%5D=firm_name&sort%5Border%5D=asc
